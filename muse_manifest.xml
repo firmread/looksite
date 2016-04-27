@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="thailook.org" resolutions="1x" timestamp="1461766825780">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="thailook.org" resolutions="1x" timestamp="1461767151986">
   <folder name="css">
-    <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4034615499" ref="index"/>
+    <file name="site_global.css" crc="4054997725"/>
+    <file name="index.css" crc="4148488293" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -13,5 +13,5 @@
   <folder name="images">
     <file name="5670386404_eb7580f61a_o.jpg" crc="202191289" ref="index"/>
   </folder>
-  <file name="index.html" crc="3821929535" seo="true" mt="1461766777461" redirect="true"/>
+  <file name="index.html" crc="4095089960" seo="true" mt="1461767131348" redirect="true"/>
 </manifest>
